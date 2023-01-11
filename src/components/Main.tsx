@@ -133,7 +133,7 @@ export default function Main() {
             className="flex h-[100px] w-[100%] items-center justify-around border-t"
           >
             <button
-              className="flex h-[40px] w-[40px] items-center justify-center rounded-full border pb-[10px] text-5xl font-semibold text-neutral-300"
+              className="flex h-[40px] w-[40px] items-center justify-center rounded-full border text-5xl font-semibold text-neutral-300 sm:pb-[10px]"
               onClick={() => {
                 props.funcDec(i);
               }}
@@ -142,7 +142,7 @@ export default function Main() {
             </button>
             <p className="cursor-default text-4xl text-neutral-300">{num}</p>
             <button
-              className="flex h-[40px] w-[40px] items-center justify-center rounded-full border pb-[10px] text-5xl font-semibold text-neutral-300"
+              className="flex h-[40px] w-[40px] items-center justify-center rounded-full border text-5xl font-semibold text-neutral-300 sm:pb-[10px]"
               onClick={() => {
                 props.funcInc(i);
               }}
