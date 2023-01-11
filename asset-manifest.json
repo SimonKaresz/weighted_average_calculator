@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/weighted_average_calculator/static/css/main.f251ec31.css",
-    "main.js": "/weighted_average_calculator/static/js/main.4f77512b.js",
+    "main.css": "/weighted_average_calculator/static/css/main.be8728d9.css",
+    "main.js": "/weighted_average_calculator/static/js/main.8a63e5e4.js",
     "static/media/eng_flag.png": "/weighted_average_calculator/static/media/eng_flag.789ff1da7dc0b7ff0220.png",
     "index.html": "/weighted_average_calculator/index.html",
-    "main.f251ec31.css.map": "/weighted_average_calculator/static/css/main.f251ec31.css.map",
-    "main.4f77512b.js.map": "/weighted_average_calculator/static/js/main.4f77512b.js.map"
+    "main.be8728d9.css.map": "/weighted_average_calculator/static/css/main.be8728d9.css.map",
+    "main.8a63e5e4.js.map": "/weighted_average_calculator/static/js/main.8a63e5e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.f251ec31.css",
-    "static/js/main.4f77512b.js"
+    "static/css/main.be8728d9.css",
+    "static/js/main.8a63e5e4.js"
   ]
 }
